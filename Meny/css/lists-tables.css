@@ -204,3 +204,9 @@ caption {
 .telefon2 td:hover {
     background-color: lightcoral;
 }
+
+
+
+.scroll-bar {
+    overflow-x: auto;
+}
